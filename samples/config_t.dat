@@ -1,0 +1,15 @@
+[Option]
+WebPage=http://127.0.0.1:8000/
+DownCmdTime=10
+UploadRate=10
+ServiceName=TEST_TRAVNET_SVC
+[Other]
+UP=1
+PS=127.0.0.1
+PP=8080
+PU=TEST_USER_PROXY
+PW=TEST_PASS_PROXY
+PF=50
+[OtherTwo]
+AutoCheck=1
+CheckedSuccess=1
